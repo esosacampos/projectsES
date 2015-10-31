@@ -16,6 +16,8 @@ function alertar(){
 	for (var i = 0; i < 4; i+1) {
 		alerta("Mi Alerta");
 	};
+
+	//Comentarios para cambios en GIT
 }
 
 function operacionAritmetica(tipo){
